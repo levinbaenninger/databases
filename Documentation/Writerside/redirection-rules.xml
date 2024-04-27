@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="4409d2f8">
+        <description>Created after removal of "Logische Operatoren" from Datenbanken</description>
+        <accepts>Logische-Operatoren.html</accepts>
+    </rule>
+    <rule id="4cdc9d6e">
+        <description>Created after removal of "SQL Datenbank" from Datenbanken</description>
+        <accepts>SQL-Datenbank.html</accepts>
+    </rule>
+    <rule id="307bfd43">
+        <description>Created after removal of "Andere Datentypen" from Datenbanken</description>
+        <accepts>Andere-Datentypen.html</accepts>
+    </rule>
+    <rule id="57d8859e">
+        <description>Created after removal of "Section Starting Page" from Datenbanken</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+    <rule id="465e839">
+        <description>Created after removal of "CREATE INDEX" from Datenbanken</description>
+        <accepts>CREATE-INDEX.html</accepts>
+    </rule>
+    <rule id="7b6a8d1">
+        <description>Created after removal of "Self Join" from Datenbanken</description>
+        <accepts>Self-Join.html</accepts>
+    </rule>
+    <rule id="780242f4">
+        <description>Created after removal of "EXISTS" from Datenbanken</description>
+        <accepts>EXISTS.html</accepts>
+    </rule>
+    <rule id="218f61a5">
+        <description>Created after removal of "ANY, ALL" from Datenbanken</description>
+        <accepts>ANY-ALL.html</accepts>
+    </rule>
+    <rule id="7dce2740">
+        <description>Created after removal of "SELECT INTO" from Datenbanken</description>
+        <accepts>SELECT-INTO.html</accepts>
+    </rule>
+    <rule id="34085a4d">
+        <description>Created after removal of "INSERT INTO SELECT" from Datenbanken</description>
+        <accepts>INSERT-INTO-SELECT.html</accepts>
+    </rule>
+    <rule id="4a763c67">
+        <description>Created after removal of "IEW" from Datenbanken</description>
+        <accepts>Views.html</accepts>
+    </rule>
+    <rule id="42fa4c8f">
+        <description>Created after removal of "PROCEDURE" from Datenbanken</description>
+        <accepts>PROCEDURE.html</accepts>
+    </rule>
+    <rule id="533fd2cc">
+        <description>Created after removal of "SELECT TOP" from Datenbanken</description>
+        <accepts>SELECT-TOP.html</accepts>
+    </rule>
+    <rule id="67d7b95d">
+        <description>Created after removal of "CASE" from Datenbanken</description>
+        <accepts>CASE.html</accepts>
+    </rule>
+    <rule id="5c7286fe">
+        <description>Created after removal of "NULL Funktionen" from Datenbanken</description>
+        <accepts>NULL-Funktionen.html</accepts>
+    </rule>
+    <rule id="7db452b8">
+        <description>Created after removal of "Wildcards" from Datenbanken</description>
+        <accepts>Wildcards.html</accepts>
+    </rule>
+    <rule id="1d6e6bbd">
+        <description>Created after removal of "Operatoren" from Datenbanken</description>
+        <accepts>Operatoren.html</accepts>
+    </rule>
+</rules>
