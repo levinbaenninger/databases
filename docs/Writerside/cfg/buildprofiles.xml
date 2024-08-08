@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+
+    <variables>
+        <primary-color>deep-ocean</primary-color>
+        <algolia-id>659S48WQW8</algolia-id>
+        <algolia-index>doc_database</algolia-index>
+        <algolia-api-key>7abb558282dcc9d76f7b4b8c6e62ff12</algolia-api-key>
+        <web-root>https://baenningerlevin.github.io/databases/</web-root>
+
+    </variables>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+        <footer>
+            <copyright>Levin Bänninger 2023</copyright>
+            <social type="linkedin" href="https://www.linkedin.com/in/levinbaenninger/">LinkedIn</social>
+            <social type="email" href="mailto:l.baenninger@icloud.com">E-Mail</social>
+            <social type="blog" href="https://www.levinbaenninger.dev">Portfolio</social>
+        </footer>
+    </build-profile>
+
+</buildprofiles>

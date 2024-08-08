@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Datenbanken"
+                  start-page="Ueberblick.topic">
+
+    <toc-element topic="Ueberblick.topic"/>
+    <toc-element topic="Grundlegendes.md">
+        <toc-element topic="Begriffe.md"/>
+        <toc-element topic="Arten-von-Daten.md"/>
+        <toc-element topic="Normalisierung.md">
+            <toc-element topic="Beispiel-Normalisierung.md"/>
+        </toc-element>
+        <toc-element topic="ERDs.md">
+            <toc-element topic="Beispiel-ERD.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Access.md">
+        <toc-element topic="Tabellen.md"/>
+        <toc-element topic="Relationen.md"/>
+        <toc-element topic="Abfragen.md"/>
+        <toc-element topic="Formulare.md"/>
+    </toc-element>
+    <toc-element topic="SQL-Server-Express.md">
+        <toc-element topic="Installation.md"/>
+    </toc-element>
+    <toc-element topic="SQL-Syntax.md">
+        <toc-element toc-title="Basics">
+            <toc-element topic="Datentypen.md">
+                <toc-element topic="String-Datentypen.md"/>
+                <toc-element topic="Numerische-Datentypen.md"/>
+                <toc-element topic="Datum-und-Zeit-Datentypen.md"/>
+            </toc-element>
+            <toc-element topic="Kommentare.md"/>
+        </toc-element>
+        <toc-element toc-title="Queries">
+            <toc-element topic="SELECT.md">
+                <toc-element topic="SELECT-DISTINCT.md"/>
+            </toc-element>
+            <toc-element topic="WHERE.md"/>
+            <toc-element topic="HAVING.md"/>
+            <toc-element toc-title="Logische Operatoren">
+                <toc-element topic="AND.md"/>
+                <toc-element topic="OR.md"/>
+                <toc-element topic="AND-und-OR-kombinieren.md"/>
+                <toc-element topic="NOT.md"/>
+            </toc-element>
+            <toc-element topic="ORDER-BY.md"/>
+            <toc-element topic="IN.md"/>
+            <toc-element topic="BETWEEN.md"/>
+            <toc-element topic="ALIASES.md"/>
+            <toc-element topic="UNION.md"/>
+            <toc-element topic="GROUP-BY.md"/>
+        </toc-element>
+        <toc-element toc-title="Datenmanipulation">
+            <toc-element topic="INSERT-INTO.md"/>
+            <toc-element topic="NULL.md"/>
+            <toc-element topic="UPDATE.md"/>
+            <toc-element topic="DELETE.md"/>
+        </toc-element>
+        <toc-element toc-title="Funktionen und Operatoren">
+            <toc-element topic="MIN-und-MAX.md"/>
+            <toc-element topic="COUNT.md"/>
+            <toc-element topic="SUM.md"/>
+            <toc-element topic="AVG.md"/>
+            <toc-element topic="LIKE.md"/>
+        </toc-element>
+        <toc-element topic="Joins.md">
+            <toc-element topic="INNER-JOIN.md"/>
+            <toc-element topic="LEFT-JOIN.md"/>
+            <toc-element topic="RIGHT-JOIN.md"/>
+            <toc-element topic="FULL-JOIN.md"/>
+        </toc-element>
+        <toc-element toc-title="Datenbank entwerfen">
+            <toc-element topic="CREATE-DB.md"/>
+            <toc-element topic="DROP-DB.md"/>
+            <toc-element topic="BACKUP-DB.md"/>
+            <toc-element topic="CREATE-TABLE.md"/>
+            <toc-element topic="DROP-TABLE.md">
+                <toc-element topic="TRUNCATE-TABLE.md"/>
+            </toc-element>
+            <toc-element topic="ALTER-TABLE.md"/>
+        </toc-element>
+        <toc-element topic="Beschraenkungen-und-Keys.md">
+            <toc-element topic="NOT-NULL.md"/>
+            <toc-element topic="UNIQUE.md"/>
+            <toc-element topic="PRIMARY-KEY.md"/>
+            <toc-element topic="FOREIGN-KEY.md"/>
+            <toc-element topic="CHECK.md"/>
+            <toc-element topic="DEFAULT.md"/>
+        </toc-element>
+    </toc-element>
+
+</instance-profile>
