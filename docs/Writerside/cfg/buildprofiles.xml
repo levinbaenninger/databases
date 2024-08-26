@@ -4,6 +4,9 @@
 
     <variables>
         <primary-color>emerald</primary-color>
+        <algolia-id>LTABE162IH</algolia-id>
+        <algolia-index>prod_DATABASES</algolia-index>
+        <algolia-api-key>dcd0aa8beef5cca0902bae605d315b93</algolia-api-key>
     </variables>
     <build-profile instance="hi">
         <variables>
